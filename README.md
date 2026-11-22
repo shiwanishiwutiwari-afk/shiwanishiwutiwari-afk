@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shivani Tiwari 👋
 
-<!--
-**shiwanishiwutiwari-afk/shiwanishiwutiwari-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Social media marketer who turns AI products into content people actually stop for.
 
-Here are some ideas to get you started:
+🔭 Social Media Marketing Intern at Bearing North AI (Zenvox, ZentraBid)  
+🤝 Influencer Marketing Intern at INACT  
+📍 Bengaluru, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Statics, carousels, reels/shorts and long-form video for LinkedIn, Instagram, Facebook and YouTube
+- Explainer, demo and feature videos
+- Case studies, captions and scripts
+- SEO: keyword research and backlinking
+- Influencer marketing
+
+## See my work
+🌐 Portfolio: https://shivani-tiwari-portfolio.netlify.app  
+💼 LinkedIn: https://linkedin.com/in/shivani-tiwari-85282615a
