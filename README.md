@@ -2,9 +2,12 @@
 
 Social media marketer who turns AI products into content people actually stop for.
 
-🔭 Social Media Marketing Intern at Bearing North AI (Zenvox, ZentraBid)  
 🤝 Influencer Marketing Intern at INACT  
 📍 Bengaluru, India
+
+## What I love to do
+- 🎬 Motion graphics
+- 🎨 Graphic design: social posts, carousels and brochures
 
 ## What I do
 - Statics, carousels, reels/shorts and long-form video for LinkedIn, Instagram, Facebook and YouTube
