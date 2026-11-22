@@ -1,6 +1,6 @@
 # Hi, I'm Shivani Tiwari 👋
 
-Social media marketer who turns AI products into content people actually stop for.
+Social media marketer who loves turning ideas into motion and design.
 
 🤝 Influencer Marketing Intern at INACT  
 📍 Bengaluru, India
